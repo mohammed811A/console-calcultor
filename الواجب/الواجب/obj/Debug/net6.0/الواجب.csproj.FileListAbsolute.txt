@@ -1,0 +1,15 @@
+D:\مستوى ثالث\الواجب\الواجب\bin\Debug\net6.0\الواجب.exe
+D:\مستوى ثالث\الواجب\الواجب\bin\Debug\net6.0\الواجب.deps.json
+D:\مستوى ثالث\الواجب\الواجب\bin\Debug\net6.0\الواجب.runtimeconfig.json
+D:\مستوى ثالث\الواجب\الواجب\bin\Debug\net6.0\الواجب.dll
+D:\مستوى ثالث\الواجب\الواجب\bin\Debug\net6.0\ref\الواجب.dll
+D:\مستوى ثالث\الواجب\الواجب\bin\Debug\net6.0\الواجب.pdb
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.csproj.AssemblyReference.cache
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.GeneratedMSBuildEditorConfig.editorconfig
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.AssemblyInfoInputs.cache
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.AssemblyInfo.cs
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.csproj.CoreCompileInputs.cache
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.dll
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\ref\الواجب.dll
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.pdb
+D:\مستوى ثالث\الواجب\الواجب\obj\Debug\net6.0\الواجب.genruntimeconfig.cache
